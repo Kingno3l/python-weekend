@@ -8,3 +8,10 @@ print("Hello from a Python script!")  # Output: Hello from a Python script!
 # 2. Open the terminal and navigate to the folder containing this file.
 # 3. Run the script using:
 #    python3 01-run-scripts.py
+
+# Activity 1: Write a script that prints your name and age.
+# Solution:
+# name = "Alice"
+# age = 25
+# print("Name:", name)
+# print("Age:", age)

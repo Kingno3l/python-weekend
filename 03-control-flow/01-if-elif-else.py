@@ -14,3 +14,13 @@ elif score >= 80:
     print("Grade: B")  # Output: Grade: B
 else:
     print("Grade: C")
+
+# Activity 1: Write a program that checks if a number is positive, negative, or zero.
+# Solution:
+# number = 10
+# if number > 0:
+#     print("Positive")
+# elif number < 0:
+#     print("Negative")
+# else:
+#     print("Zero")
